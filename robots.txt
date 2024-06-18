@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iumeveremig.github.io/sitemap
+Sitemap: https://iumeveremig.github.io/app/sitemap
+Sitemap: https://iumeveremig.github.io/assets/sitemap
+Sitemap: https://iumeveremig.github.io/css/sitemap
+Sitemap: https://iumeveremig.github.io/includes/sitemap
+Sitemap: https://iumeveremig.github.io/item/sitemap
+Sitemap: https://iumeveremig.github.io/src/sitemap
